@@ -1,0 +1,64 @@
+1. Who developed python programming language?
+Ans. Guido Van Rassum developed python programming language.
+
+2. Which type of programming does python support?
+Ans. Python supports Object Oriented programming language.
+
+3. Is python case sensitive when dealing with identifiers?
+Ans. Yes python is case sensitive when dealing with identifiers.
+
+4. What is correct extension of the python file?
+Ans. The correct extension of the python file is .py .
+
+5. Is python code compiled or interpreted?
+Ans. Python code is always interpreted.
+
+6. Name a few blocks of code defined in python language.
+Ans. 1.Conditional statements
+     2.loops
+     3.exception handling
+     4.function defination
+     5.class defination
+     
+7. State a character used to give single line comment in python.
+Ans. In pyhton '#' symbol is used to give single line comment.
+
+8.Mention the functions that helps us to find the version of python that we are working on.
+Ans. 1.sys.version
+     2.platform.python_version()
+     3.sys.version_info()
+    
+9.python supports the creation of anonymous functions at run time using construct called.
+Ans. Python supports the creation of anonymous functions at run time using 'lambda' construct.
+
+10.What does pip stand for in python?
+Ans. pip stand for pip install package
+     it manages installation, uninstallation of packages in python.
+     
+11.Mention a few built in functions in python.
+Ans. Here are some built in function in python.
+     1.range()
+     2.input()
+     3.print()
+     4.len()
+     5.str()
+     
+12.What is the maximum possible length of an identifier in python?
+Ans. The maximum possible length of an identifier in python is not specified.
+
+13.What are the benefits of using python as a language?
+Ans. 1.It is easy to learn language for beginners.
+     2.It is interpreted language
+     3.It has short code.
+     4.It has easy concepts.
+     
+14.How is the memory managed in python?
+Ans. In python memory is managed by 'Python memory manager'
+     the memory manager uses a combination of tricks to manage memory.
+     for example reference counting, garbage collecton, memory pooling etc.
+     
+15.How to install python in windows and set python variables?
+Ans.Do it by yourself.
+
+16.Is indentation required in python?
+Ans.Yes, identation is required in python.
